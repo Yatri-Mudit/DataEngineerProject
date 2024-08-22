@@ -1,1 +1,9 @@
-
+{
+	"name": "tokyo-olympic-75",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1521763b-3c4f-4168-9d7d-1a66f619d5a4",
+		"tenantId": "3a85e3a7-c6ca-479a-a5b6-696da753a8a1"
+	}
+}
